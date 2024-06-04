@@ -1,0 +1,86 @@
+body {
+    background-color: #DFFEE1;
+}
+
+h2 {
+    color: #034306;
+    text-align:	center;
+    font-weight: normal;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:	0 36px 0;
+}
+
+h3 {
+    border-style: solid;
+    color: #034306;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    font-weight: normal;
+    margin:	10px 36px 0;
+    padding-top: 12px;
+    text-align:	center;
+}
+
+h4 {
+    color: #034306;
+    font-weight: normal;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:	10px 0 10px;
+}
+
+p {
+    color: #034306;
+    font-weight: normal;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:	10px 36px 0;
+}
+
+a {
+    text-align:	center;
+    font-weight: normal;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:	10px 0 0;
+}
+
+ul {
+    color: #034306;
+    font-weight: normal;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:	10px 0 0;
+}
+
+table {
+    color: #034306;
+    font-weight: normal;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:	10px 0 10px;
+    text-align: center;
+}
+
+.bodytext {
+    color: #034306;
+    font-weight: normal;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:	5px 0 0;
+}
+
+.menu {
+    text-align: center;
+}
+
+.spaltett {
+    float:left;
+    text-align: left;
+}
+
+.spalttva {
+    float:right;
+    text-align: center;
+}
